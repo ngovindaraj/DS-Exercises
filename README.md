@@ -1,1 +1,1 @@
-This folder contains Ds related documents.
+This folder contains DS related documents.
