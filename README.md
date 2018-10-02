@@ -1,1 +1,1 @@
-This folder contains all documents related to Springboard.
+This folder contains Ds related documents.
